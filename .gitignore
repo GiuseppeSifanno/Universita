@@ -1,2 +1,12 @@
-*.pdf
-*.obsidian
+# Metodo di funzionamento: "per inclusione"
+
+# Escludiamo tutti i file
+*
+
+# Lista di file da includere
+!*.md
+!*.c
+!*.c++
+!*.h
+!*.png
+!*.jpg
